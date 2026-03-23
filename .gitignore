@@ -1,0 +1,47 @@
+### --- IntelliJ ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### --- Builder ---
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+captures/
+.externalNativeBuild
+.cxx/
+local.properties
+
+### --- OS-Bloat ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+### --- Logs/Temporary ---
+*.log
+*.tmp
+*.temp
+*.swp
+.venv/
+node_modules/
+.env
+.env.local
+
+### flatten.sh
+transpiled/
