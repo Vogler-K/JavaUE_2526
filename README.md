@@ -1,12 +1,16 @@
 # HTL Rennweg - 1. Klasse Angaben/Abgaben - 1BI 2025/2026 - BIS
-![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)
-![IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)
-![School](https://img.shields.io/badge/HTL-Rennweg-blue?style=flat-square)
+[![Java](https://img.shields.io/badge/Language-Java-orange?style=flat-square&logo=java)]()
+[![IDE](https://img.shields.io/badge/IDE-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea)](https://www.jetbrains.com/idea/download/?section=mac)
+[![School](https://img.shields.io/badge/HTL-Rennweg-blue?style=flat-square)](http://www.htlrennweg.at)
 ## 💻 Tech Stack
-* **Environment:** openjdk 25 2025-09-16<br>
-  OpenJDK Runtime Environment (build 25+36-3489)<br>
-  OpenJDK 64-Bit Server VM (build 25+36-3489, mixed mode, sharing)
-* **IDE:** IntelliJ IDEA 2025.2.6.1 (Ultimate Edition)x
+* **Environments:**
+  * openjdk 25 2025-09-16<br>
+    OpenJDK Runtime Environment (build 25+36-3489)<br>
+    OpenJDK 64-Bit Server VM (build 25+36-3489, mixed mode, sharing) **(UE09-UE16)**
+  * openjdk 27-ea 2026-09-15
+    OpenJDK Runtime Environment (build 27-ea+14-1262)
+    OpenJDK 64-Bit Server VM (build 27-ea+14-1262, mixed mode, sharing)
+* **IDE:** IntelliJ IDEA 2025.2.6.1 (Ultimate Edition)
 * **Plugins:** Document Viewer 1.0.2
 * **Version Control:** Git
 
