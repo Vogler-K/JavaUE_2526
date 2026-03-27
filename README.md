@@ -15,17 +15,18 @@
 * **Version Control:** Git
 
 ## 📂 Index der Aufgaben
-| Übung                | Angabe                                                  | Lösung Main File                                   |
-|:---------------------|:--------------------------------------------------------|:---------------------------------------------------|
-| **SUE02**            | Ohne Angabe                                             | [SUE02.java](./src/at/vogler/SUE02/SUE02.java)     |
-| **UE09_refractored** | [UE09_refractored](./src/at/vogler/UE09_refrac/UE09.md) | [UE09.java](./src/at/vogler/UE09_refrac/UE09.java) |
-| **UE10**             | [Angabe UE10](./src/at/vogler/UE10/UE10.md)             | [UE10.java](./src/at/vogler/UE10/UE10.java)        |
-| **UE11**             | [Angabe UE11](./src/at/vogler/UE11/UE11.md)             | [UE11.java](./src/at/vogler/UE11/UE11.java)        |
-| **UE12**             | [Angabe UE12](./src/at/vogler/UE12/UE12.md)             | [UE12.java](./src/at/vogler/UE12/UE12.java)        |
-| **UE13**             | [Angabe UE13](./src/at/vogler/UE13/UE13.md)             | [UE13.java](./src/at/vogler/UE13/UE13.java)        |
-| **UE14**             | [Angabe UE14](./src/at/vogler/UE14/UE14.md)             | [UE14.java](./src/at/vogler/UE14/UE14.java)        |
-| **UE15**             | [Angabe UE15](./src/at/vogler/UE15/UE15.md)             | [UE15.java](./src/at/vogler/UE15/UE15.java)        |
-| **UE16**             | [Angabe UE16](./src/at/vogler/UE16/UE16.md)             | [UE16.java](./src/at/vogler/UE16/UE16.java)        |
+| Übung                | Angabe                                                  | Lösung Main File                                                                                            |
+|:---------------------|:--------------------------------------------------------|:------------------------------------------------------------------------------------------------------------|
+| **SUE02**            | Ohne Angabe                                             | [SUE02.java](./src/at/vogler/SUE02/SUE02.java)                                                              |
+| **UE09_refractored** | [UE09_refractored](./src/at/vogler/UE09_refrac/UE09.md) | [UE09.java](./src/at/vogler/UE09_refrac/UE09.java)                                                          |
+| **UE10**             | [Angabe UE10](./src/at/vogler/UE10/UE10.md)             | [UE10.java](./src/at/vogler/UE10/UE10.java)                                                                 |
+| **UE11**             | [Angabe UE11](./src/at/vogler/UE11/UE11.md)             | [UE11.java](./src/at/vogler/UE11/UE11.java)                                                                 |
+| **UE12**             | [Angabe UE12](./src/at/vogler/UE12/UE12.md)             | [UE12.java](./src/at/vogler/UE12/UE12.java)                                                                 |
+| **UE13**             | [Angabe UE13](./src/at/vogler/UE13/UE13.md)             | [UE13.java](./src/at/vogler/UE13/UE13.java)                                                                 |
+| **UE14**             | [Angabe UE14](./src/at/vogler/UE14/UE14.md)             | [UE14.java](./src/at/vogler/UE14/UE14.java)                                                                 |
+| **UE15**             | [Angabe UE15](./src/at/vogler/UE15/UE15.md)             | [UE15.java](./src/at/vogler/UE15/UE15.java)                                                                 |
+| **UE16**             | [Angabe UE16](./src/at/vogler/UE16/UE16.md)             | [UE16.java](./src/at/vogler/UE16/UE16.java)                                                                 |
+| **UE16**             | [Angabe UE17](./src/at/vogler/UE17/UE17.md)             | [UE17_easy.java](./src/at/vogler/UE17/UE17_easy.java) [UE17_hard.java](./src/at/vogler/UE17/UE17_hard.java) |
 
 
 ## ⚖️ Disclaimer und Rechtliche Hinweise
