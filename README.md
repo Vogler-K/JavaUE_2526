@@ -26,7 +26,9 @@
 | **UE14**             | [Angabe UE14](./src/at/vogler/UE14/UE14.md)             | [UE14.java](./src/at/vogler/UE14/UE14.java)                                                                 |
 | **UE15**             | [Angabe UE15](./src/at/vogler/UE15/UE15.md)             | [UE15.java](./src/at/vogler/UE15/UE15.java)                                                                 |
 | **UE16**             | [Angabe UE16](./src/at/vogler/UE16/UE16.md)             | [UE16.java](./src/at/vogler/UE16/UE16.java)                                                                 |
-| **UE16**             | [Angabe UE17](./src/at/vogler/UE17/UE17.md)             | [UE17_easy.java](./src/at/vogler/UE17/UE17_easy.java) [UE17_hard.java](./src/at/vogler/UE17/UE17_hard.java) |
+| **UE17**             | [Angabe UE17](./src/at/vogler/UE17/UE17.md)             | [UE17_easy.java](./src/at/vogler/UE17/UE17_easy.java) [UE17_hard.java](./src/at/vogler/UE17/UE17_hard.java) |
+| **UE18**             | [Angabe UE18](./src/at/vogler/UE18/UE18.md)             | [UE18_easy.java](./src/at/vogler/UE18/UE18_easy.java) [UE18_hard.java](./src/at/vogler/UE18/UE18_hard.java) |
+
 
 
 ## ⚖️ Disclaimer und Rechtliche Hinweise
